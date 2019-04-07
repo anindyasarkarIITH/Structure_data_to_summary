@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/anindya/Documents/structure_data_to_summary/myexperiment/train/model.ckpt-4476"
+all_model_checkpoint_paths: "/home/anindya/Documents/structure_data_to_summary/myexperiment/train/model.ckpt-4310"
+all_model_checkpoint_paths: "/home/anindya/Documents/structure_data_to_summary/myexperiment/train/model.ckpt-4393"
+all_model_checkpoint_paths: "/home/anindya/Documents/structure_data_to_summary/myexperiment/train/model.ckpt-4476"

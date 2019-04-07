@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "seq2seq/embedding/embedding_content_summary:0"
+  metadata_path: "/home/anindya/Documents/structure_data_to_summary/myexperiment/train/vocab_metadata.tsv"
+}

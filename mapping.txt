@@ -1,0 +1,1 @@
+/home/anindya/Documents/structure_data_to_summary/examples/example_6.txt 	 /home/anindya/Documents/structure_data_to_summary/tokenized_examples/example_6.txt

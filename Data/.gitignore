@@ -1,0 +1,9 @@
+ignore the full version of the wikipedia-biography-dataset
+wikipedia-biography-dataset/
+# ignore the three full dataset files
+*.nb
+*.sent
+*.box
+
+# ignore the pickle files
+*.pickle

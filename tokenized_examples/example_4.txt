@@ -1,0 +1,9 @@
+leonard l. martino is a former democratic member of the pennsylvania house of representatives . he was born in butler to michael and angela pitullio martino .
+
+
+@fields
+image name name name state district term term predecessor predecessor successor successor successor constituency birth birth birth birth birth birth death_date death_place party alma alma alma alma occupation spouse spouse spouse spouse spouse spouse children residence religion website article article
+
+
+@contents
+<none> leonard l. martino pennsylvania 21st 1969 1974 district created thomas e. flaherty <none> 1 april 1940 butler , pennsylvania <none> <none> democratic duquesne university georgetown university <none> marion mason -lrb- m. 1955 -rrb- <none> <none> <none> <none> leonard martino

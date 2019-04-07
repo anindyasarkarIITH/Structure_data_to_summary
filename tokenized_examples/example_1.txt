@@ -1,0 +1,9 @@
+hui jun is a male former table tennis player from china .
+
+
+@fields
+name name image imagesize caption fullname fullname education nationality playingstyle birth_date birth_place death_date death_place height weight medaltemplates article article
+
+
+@contents
+hui jun <none> <none> <none> hui jun <none> <none> <none> <none> <none> <none> <none> <none> <none> <none> hui jun

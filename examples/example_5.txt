@@ -1,0 +1,9 @@
+salome jens -lrb- born may 8 , 1935 -rrb- is an american stage , film and television actress . she is perhaps best known for portraying the female changeling on '' '' . 
+
+
+@fields
+image image image alt caption caption caption name name birth birth birth birth birth birth birth birth death_date death_place occupation years years years article article 
+
+
+@contents
+salome jens 1962.jpg <none> jens in 1962 salome jens 8 may 1935 milwaukee , wisconsin , u.s. <none> <none> actress 1956 -- present salome jens 
