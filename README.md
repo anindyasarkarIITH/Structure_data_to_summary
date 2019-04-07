@@ -22,6 +22,7 @@ python run_order_planning_summarization.py --mode=decode --data_path=/home/anind
 Investigate weight of trained network:
 python inspect_checkpoint.py /home/anindya/Documents/structure_data_to_summary/myexperiment/train/model.ckpt-2841
 
+# Structure_data_to_summary SAMPLE OUTPUT FROM OUR TRAINED MODEL
 sample Results(generated summary from structure data) after epoch 1 of training in sample_output folder.
 
 ![alt text](https://github.com/anindyasarkarIITH/Structure_data_to_summary/master//home/anindya/Desktop/Structure_data_to_Summary/sample_output/sample_output4.png)
